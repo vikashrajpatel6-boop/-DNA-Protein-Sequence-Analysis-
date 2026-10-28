@@ -1,0 +1,42 @@
+BLAST RESULTS RECORD  (fill in ONLY with real values from your own BLAST run)
+==========================================================================
+Status: NOT YET PERFORMED
+
+Query
+  Protein           : Cytochrome c (CYC_HUMAN)
+  UniProt accession : P99999
+  Query length      : 105 aa
+
+Search settings (fill in after running)
+  BLAST program     : blastp
+  Database          : ____________________  (e.g., the database you actually selected)
+  Algorithm         : ____________________
+  Other settings    : defaults / list any you changed
+  Date of search    : ____________________
+  BLAST RID         : ____________________  (shown on results page, optional)
+
+Top hits (copy from the "Descriptions" table; add as many rows as you analysed)
+--------------------------------------------------------------------------
+Rank | Matching protein | Organism | Accession | Max score | Total score | Query cover | E-value | Per. ident
+  1  |                  |          |           |           |             |             |         |
+  2  |                  |          |           |           |             |             |         |
+  3  |                  |          |           |           |             |             |         |
+  4  |                  |          |           |           |             |             |         |
+  5  |                  |          |           |           |             |             |         |
+
+Alignment details for one chosen hit (open it from the Alignments tab)
+--------------------------------------------------------------------------
+  Matching protein  : 
+  Organism          : 
+  Score (bits)      : 
+  Expect (E-value)  : 
+  Identities        :    /    (   %)
+  Positives         :    /    (   %)
+  Gaps              :    /    (   %)
+
+Paste the alignment block below:
+
+(paste here)
+
+Notes / observations (write in your own words):
+
